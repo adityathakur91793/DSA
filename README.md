@@ -57,9 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityathakur91793/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityathakur91793/DSA/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adityathakur91793/DSA/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityathakur91793/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
