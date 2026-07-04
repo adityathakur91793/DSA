@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityathakur91793/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/adityathakur91793/DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/adityathakur91793/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/adityathakur91793/DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/adityathakur91793/DSA/tree/master/0136-single-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityathakur91793/DSA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityathakur91793/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adityathakur91793/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityathakur91793/DSA/tree/master/0283-move-zeroes) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adityathakur91793/DSA/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adityathakur91793/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
