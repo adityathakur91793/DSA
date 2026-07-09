@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityathakur91793/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityathakur91793/DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/adityathakur91793/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/adityathakur91793/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/adityathakur91793/DSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityathakur91793/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/adityathakur91793/DSA/tree/master/0136-single-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityathakur91793/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/adityathakur91793/DSA/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/adityathakur91793/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityathakur91793/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityathakur91793/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityathakur91793/DSA/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/adityathakur91793/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
