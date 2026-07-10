@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/adityathakur91793/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/adityathakur91793/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityathakur91793/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/adityathakur91793/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityathakur91793/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityathakur91793/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityathakur91793/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/adityathakur91793/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityathakur91793/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityathakur91793/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityathakur91793/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityathakur91793/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/adityathakur91793/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityathakur91793/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
@@ -69,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityathakur91793/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adityathakur91793/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityathakur91793/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityathakur91793/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/adityathakur91793/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adityathakur91793/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/adityathakur91793/DSA/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
