@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityathakur91793/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityathakur91793/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/adityathakur91793/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/adityathakur91793/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adityathakur91793/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/adityathakur91793/DSA/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityathakur91793/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/adityathakur91793/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityathakur91793/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityathakur91793/DSA/tree/master/0268-missing-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityathakur91793/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/adityathakur91793/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityathakur91793/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adityathakur91793/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityathakur91793/DSA/tree/master/0283-move-zeroes) |
