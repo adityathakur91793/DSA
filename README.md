@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityathakur91793/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityathakur91793/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityathakur91793/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/adityathakur91793/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityathakur91793/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityathakur91793/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityathakur91793/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adityathakur91793/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityathakur91793/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adityathakur91793/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adityathakur91793/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adityathakur91793/DSA/tree/master/0414-third-maximum-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adityathakur91793/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adityathakur91793/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/adityathakur91793/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/adityathakur91793/DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
