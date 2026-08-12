@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/adityathakur91793/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/adityathakur91793/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityathakur91793/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1929-concatenation-of-array](https://github.com/adityathakur91793/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adityathakur91793/DSA/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/adityathakur91793/DSA/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
