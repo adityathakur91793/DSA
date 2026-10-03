@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/adityathakur91793/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1480-running-sum-of-1d-array](https://github.com/adityathakur91793/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/adityathakur91793/DSA/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityathakur91793/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/adityathakur91793/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathakur91793/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/adityathakur91793/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityathakur91793/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/adityathakur91793/DSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/adityathakur91793/DSA/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/adityathakur91793/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
